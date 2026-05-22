@@ -1,224 +1,265 @@
 
 <div align="center">
   <a href="https://github.com/yasirrahim16/Y-SOCIETY">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,4,6,8,10,12&height=300&section=header&text=💀%20YASIR%20RAHEEM%20💀&fontSize=80&fontColor=ff0000&animation=twinkling&desc=🔥%20Y-SOCIETY%20🔥%20%7C%20GHOST%20MODE%20ACTIVE%20%7C%20YOU%20CAN'T%20SEE%20ME&descSize=20&descAlignY=75" />
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:ff0000,100:000000&height=350&section=header&text=☠️%20Y-SOCIETY%20☠️&fontSize=100&fontColor=ff0000&animation=twinkling&desc=🔥%20Nobody%20Hacks%20Us.%20We%20Are%20The%20Creators.%20🔥&descSize=22&descAlignY=75" />
   </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/yasirrahim16/Y-SOCIETY"><img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=50&color=ff0000&center=true&vCenter=true&width=1000&height=100&duration=800&pause=100&lines=%F0%9F%92%80+YASIR+RAHEEM+%F0%9F%92%80;%F0%9F%94%A5+Y-SOCIETY+IS+WATCHING+%F0%9F%94%A5;%E2%98%A0%EF%B8%8F+DO+NOT+TEST+ME+%E2%98%A0%EF%B8%8F;%F0%9F%92%80+ELLIOT+WHO%3F+I'M+THE+REAL+ONE+%F0%9F%92%80" alt="Typing SVG" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-%E2%98%A0%EF%B8%8F%20DANGEROUS-ff0000?style=for-the-badge&logo=skull&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/NAME-YASIR%20RAHEEM-ff0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/CREW-Y--SOCIETY-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/LOCATION-UNKNOWN-ff0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black" />
-</p>
-
-<pre align="center" style="background:#000;color:#ff0000;border:3px solid #ff0000;padding:20px;border-radius:15px;box-shadow:0 0 50px #ff0000;font-size:16px;font-weight:bold;">
-╔══════════════════════════════════════════════════╗
-║        💀 WARNING: YOU ARE BEING MONITORED 💀   ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║   ██╗   ██╗ █████╗ ███████╗██╗██████╗         ║
-║   ╚██╗ ██╔╝██╔══██╗██╔════╝██║██╔══██╗        ║
-║    ╚████╔╝ ███████║███████╗██║██████╔╝        ║
-║     ╚██╔╝  ██╔══██║╚════██║██║██╔══██╗        ║
-║      ██║   ██║  ██║███████║██║██║  ██║        ║
-║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝        ║
-║                                                  ║
-║   ██████╗  █████╗ ██╗  ██╗███████╗███████╗    ║
-║   ██╔══██╗██╔══██╗██║  ██║██╔════╝██╔════╝    ║
-║   ██████╔╝███████║███████║█████╗  █████╗      ║
-║   ██╔══██╗██╔══██║██╔══██║██╔══╝  ██╔══╝      ║
-║   ██║  ██║██║  ██║██║  ██║███████╗███████╗    ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝    ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-</pre>
-
----
-
-## 💀 **WHO IS YASIR RAHEEM?**
-
-```python
-class YASIR_RAHEEM:
-    def __init__(self):
-        self.name = "YASIR RAHEEM"
-        self.crew = "Y-SOCIETY"
-        self.status = "☠️ ACTIVELY DANGEROUS"
-        self.motto = "I don't threaten. I promise."
-        
-    def skills(self):
-        return {
-            "Pentesting": "ELITE 99.9%",
-            "Zero Days": "I FIND WHAT DOESN'T EXIST",
-            "Networks": "I OWN THEM ALL",
-            "Reverse Engineering": "I BREAK EVERYTHING",
-            "Malware": "YOUR AV CAN'T SEE ME",
-            "Social Engineering": "YOU ALREADY TRUSTED ME"
-        }
-        
-    def message(self):
-        return "You think you're safe? Wrong. I'm already inside."
-
-ghost = YASIR_RAHEEM()
-print(f"💀 NAME: {ghost.name}")
-print(f"🔥 CREW: {ghost.crew}")
-print(f"⚡ {ghost.message()}")
-```
-
----
-
-## ☠️ **SKILL DESTRUCTION LEVEL**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,go,rust,bash,powershell,kali,linux,nodejs,react,mongodb,mysql,sqlite,redis,docker,git,github,aws,gcp,azure,cloudflare,nginx,grafana,arduino,raspberrypi,unity,blender,figma,photoshop&theme=dark&perline=11" />
-</p>
-
----
-
-## 🔥 **COMBAT MATRIX**
-
-| 🎯 **SKILL** | 🛠️ **TOOLS** | 💀 **LEVEL** |
-|:---:|:---|:---:|
-| **WEB HACKING** | Burp Suite \| SQLMap \| XSSer \| WPScan | 💀💀💀💀💀 |
-| **NETWORK OWN** | Nmap \| Masscan \| BloodHound \| CrackMapExec | 💀💀💀💀💀 |
-| **EXPLOIT DEV** | Metasploit \| Empire \| Cobalt Strike \| Custom | 💀💀💀💀💀 |
-| **PASSWORD CRACK** | Hashcat \| John \| Hydra \| GPU Cluster | 💀💀💀💀💀 |
-| **OSINT** | Maltego \| SpiderFoot \| Sherlock \| Shodan | 💀💀💀💀💀 |
-| **REVERSE** | Ghidra \| IDA Pro \| x64dbg \| GDB | 💀💀💀💀💀 |
-| **EVASION** | AMSI Bypass \| ETW Patch \| Process Hollowing | 💀💀💀💀💀 |
-| **DARK WEB** | Tor \| I2P \| Freenet \| Custom Nodes | 💀💀💀💀💀 |
-| **CLOUD HACK** | Pacu \| CloudSploit \| Prowler \| Custom | 💀💀💀💀💀 |
-| **AI WEAPONS** | GPT Poison \| Model Hijack \| Prompt Injection | 💀💀💀💀💀 |
-
----
-
-## 📊 **LIVE BATTLE STATS**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirrahim16&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FF0000&border_radius=20&ring=FF0000&fire=FF0000&custom_title=💀+YASIR+RAHEEM+STATS+💀" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrahim16&layout=donut&theme=highcontrast&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FF0000&border_radius=20&custom_title=🧬+CODE+DNA+🧬" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirrahim16&theme=highcontrast&hide_border=true&border_radius=20&background=000000&fire=FF0000&ring=FF0000&currStreakLabel=FF0000&sideNums=FF0000&currStreakNum=FFFFFF&sideLabels=FF0000&dates=FF0000" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirrahim16&bg_color=000000&color=FF0000&line=FF0000&point=FF0000&area=true&area_color=FF000033&hide_border=true&custom_title=🔥+Y-SOCIETY+NEURAL+ACTIVITY+🔥" width="100%" />
-</div>
-
----
-
-## 🏆 **TROPHY ROOM**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasirrahim16&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=2&rank=SSS,SS,S,AAA,AA,A,B&title_color=FF0000" width="100%" />
-</div>
-
----
-
-## 🎯 **ACTIVE MISSIONS**
-
-| 🎯 **TARGET** | 📍 **STATUS** | ⏳ **PROGRESS** |
-|:---:|:---:|:---:|
-| PROJECT ZERO | 🟢 INFILTRATED | ██████████ 100% |
-| GHOST NETWORK | 🟢 ACTIVE | ████████░░ 80% |
-| DARK OPS | 🟢 DEPLOYED | ██████░░░░ 60% |
-| QUANTUM BREACH | 🟡 LOADING | ████░░░░░░ 40% |
-| MIND CONTROL | 🔴 IN PROGRESS | ██░░░░░░░░ 20% |
-
----
-
-## 💀 **DARK CODE // C++ EXPLOIT**
-
-```cpp
-#include <windows.h>
-#include <stdio.h>
-
-int main() {
-    while(1) {
-        printf("💀 YASIR RAHEEM WAS HERE 💀\n");
-        printf("🔥 Y-SOCIETY OWNS THIS 🔥\n");
-        Sleep(1000);
-    }
-    return 0;
-}
-```
-
-```javascript
-const YASIR = {
-    name: "YASIR RAHEEM",
-    power: Infinity,
-    mercy: 0,
-    message: function() {
-        console.log("%c💀 YOU'VE BEEN WARNED 💀", "color:red;font-size:50px;font-weight:bold;text-shadow:0 0 30px red;");
-    }
-};
-YASIR.message();
-```
-
----
-
-## 🌐 **DARK WEB CHANNELS**
-
-<p align="center">
-  <a href="https://github.com/yasirrahim16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red&labelColor=black&color=black" /></a>
-  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=black&color=black" /></a>
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=black&color=black" /></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=black&color=black" /></a>
-  <a href="https://signal.org/"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white&labelColor=black&color=black" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=black" /></a>
-  <a href="https://telegram.org/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&color=black" /></a>
-</p>
-
----
-
-## 💀 **FINAL WARNING**
-
-<pre align="center" style="background:#000;color:#ff0000;border:5px solid #ff0000;padding:25px;border-radius:20px;box-shadow:0 0 100px #ff0000,inset 0 0 50px #ff0000;font-size:18px;font-weight:bold;">
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   💀 I don't hack for fun. I hack to own. 💀   ║
-║   🔥 Y-SOCIETY is not a crew. It's a LEGEND. 🔥 ║
-║   👑 YASIR RAHEEM is not a name. It's FEAR. 👑  ║
-║                                                  ║
-║   "I'm not a villain. I'm the consequence        ║
-║    of your negligence."                          ║
-║                    — YASIR RAHEEM                ║
-║                                                  ║
-║   ☠️ THIS PROFILE IS UNDER Y-SOCIETY ☠️        ║
-║   ☠️ TOUCH IT AND YOU'RE NEXT ☠️               ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-</pre>
-
----
-
-## 👁️ **YOU'RE BEING WATCHED**
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yasirrahim16/count.svg" />
-  <br/>
-  <sub><b>☠️ Y-SOCIETY HAS LOGGED YOUR IP ☠️</b></sub>
-  <br/>
-  <sub><i>// Your system has been scanned // Your data has been collected //</i></sub>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/yasirrahim16/Y-SOCIETY">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,4,6,8,10,12&height=200&section=footer&text=💀%20YASIR%20RAHEEM%20💀%20🔥%20Y-SOCIETY%20🔥&fontSize=40&fontColor=ff0000&desc=☠️%20STAY%20OUT%20OR%20BE%20NEXT%20☠️&descSize=18&descAlignY=70&animation=twinkling" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&color=ff0000&center=true&vCenter=true&width=1100&height=80&duration=1000&pause=200&lines=☠️+Y-SOCIETY+☠️+Creator+of+Exploits+Architect+of+Chaos+;🔥+We+Don't+Break+Systems+We+Invent+Them+🔥;⚡+Every+Zero+Day+Begins+Here+⚡;👑+YASIR+RAHEEM+👑+The+One+Who+Writes+The+Rules" alt="Typing SVG" />
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<br/>
+
 <p align="center">
-  <a href="https://github.com/yasirrahim16/Y-SOCIETY"><img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=50&color=ff0000&center=true&vCenter=true&width=1000&height=80&duration=500&pause=50&lines=%F0%9F%92%80+YASIR+RAHEEM+OWNS+THIS+CODE+%F0%9F%92%80;%F0%9F%94%A5+Y-SOCIETY+%7C+SYSTEM+BREACHED+%F0%9F%94%A5;%E2%98%A0%EF%B8%8F+YOU+SHOULD+HAVE+STAYED+AWAY+%E2%98%A0%EF%B8%8F" alt="Typing SVG" /></a>
+  <img src="https://img.shields.io/badge/STATUS-CREATOR-ff0000?style=for-the-badge&logo=skull&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/TITLE-ARCHITECT-ff0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/DOMAIN-CYBERWAR-ff0000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/ERA-2080-ff0000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black" />
 </p>
+
+<br/>
+
+<hr style="border: 2px solid #ff0000; box-shadow: 0 0 30px #ff0000;" />
+
+<br/>
+
+## ☠️ **THE CREATOR**
+
+> **I don't use exploits. I write them.**
+> **I don't hack systems. I design them.**
+> **Every vulnerability that exists passed through my mind first.**
+>
+> **— YASIR RAHEEM // Founder of Y-SOCIETY**
+
+<br/>
+
+## 🔥 **WHAT I BUILD**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,go,javascript,typescript,assembly,bash,powershell,kali,linux,windows,apple,docker,kubernetes,aws,gcp,azure,git,github,nodejs,react,nextjs,vue,angular,svelte,electron,tauri,tensorflow,pytorch,opencv,redis,mysql,postgres,mongodb,sqlite,dynamodb,cloudflare,nginx,grafana,prometheus,arduino,raspberrypi,unity,unreal,blender,figma,photoshop,illustrator,aftereffects&theme=dark&perline=13" />
+</p>
+
+<br/>
+
+## ⚡ **SYSTEMS I CONTROL**
+
+```python
+#!/usr/bin/env python3
+
+class YSOCIETY:
+    """I don't hack. I create the blueprint."""
+    
+    def __init__(self):
+        self.creator = "YASIR RAHEEM"
+        self.era = 2080
+        self.domain = [
+            "Exploit Development",
+            "Reverse Engineering",
+            "Zero Day Research",
+            "Kernel Programming",
+            "AI/ML Engineering",
+            "Quantum Cryptography",
+            "Firmware Design",
+            "Cloud Architecture",
+            "Network Protocols",
+            "Malware Analysis",
+            "Defense Systems",
+            "Hardware Design"
+        ]
+        
+        self.philosophy = """
+        I am not a hacker.
+        I am the reason hackers exist.
+        I build the worlds they try to break.
+        I write the code they try to exploit.
+        I am the source. I am the origin.
+        I am Y-SOCIETY.
+        """
+        
+    def status(self):
+        return "☠️ ACTIVE // CREATOR MODE // ORIGIN PROTOCOL"
+
+system = YSOCIETY()
+print(system.philosophy)
 ```
+
+<br/>
+
+## 🛡️ **MY DOMAINS // WHAT I MASTER**
+
+| 🌐 **DOMAIN** | 🔧 **WHAT I CREATE** | ⏳ **EXPERIENCE** |
+|:---:|:---|:---:|
+| **💀 EXPLOIT DEV** | Zero Days \| RCEs \| EoPs \| Heap Sprays | ██████████ 20+ Yrs |
+| **🧠 AI SYSTEMS** | Neural Nets \| Deep Learning \| Adversarial AI | ██████████ 15+ Yrs |
+| **🔐 CRYPTOGRAPHY** | Quantum Crypto \| Post-Quantum \| Homomorphic | ██████████ 18+ Yrs |
+| **⚙️ KERNEL** | Ring 0 Drivers \| Rootkits \| Hypervisors | ██████████ 22+ Yrs |
+| **🌐 NETWORKS** | Protocols \| Mesh Nets \| Dark Fiber | ██████████ 20+ Yrs |
+| **📡 HARDWARE** | FPGA \| ASIC \| SDR \| IoT Architectures | ██████████ 16+ Yrs |
+| **☁️ CLOUD** | Distributed Systems \| Edge Computing | ██████████ 14+ Yrs |
+| **🔬 REVERSE** | Binary Analysis \| Decompilation \| Emulation | ██████████ 20+ Yrs |
+
+<br/>
+
+## 📊 **THE SYSTEM // LIVE METRICS**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirrahim16&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ff0000&border_radius=15&ring=ff0000&fire=ff0000&custom_title=☠️+Y-SOCIETY+METRICS+☠️" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrahim16&layout=compact&theme=highcontrast&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ff0000&border_radius=15&custom_title=🧠+CODE+ORIGIN+🧠" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirrahim16&theme=highcontrast&hide_border=true&border_radius=15&background=000000&fire=ff0000&ring=ff0000&currStreakLabel=ff0000&sideNums=ff0000&currStreakNum=ffffff&sideLabels=ff0000&dates=ff0000&card_width=1100" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirrahim16&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&area_color=ff000033&hide_border=true&custom_title=☠️+Y-SOCIETY+NEURAL+ACTIVITY+☠️&height=400&width=1100" width="100%" />
+</div>
+
+<br/>
+
+## 🏆 **CREATOR'S LEGACY // TROPHIES**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasirrahim16&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=2&rank=SSS,SS,S,AAA,AA,A,B&title_color=ff0000" width="100%" />
+</div>
+
+<br/>
+
+## 💎 **THE CODE // CREATOR'S MARK**
+
+```cpp
+// ☠️ Y-SOCIETY // CREATOR'S TOUCH
+// I don't copy. I originate.
+
+#define REALITY 0x2080
+#define POWER   INFINITY
+
+class YSOCIETY {
+private:
+    std::string creator = "YASIR RAHEEM";
+    int64_t skills = UINT64_MAX;
+    
+public:
+    void create_reality() {
+        while(true) {
+            build_exploit();
+            design_system();
+            architect_future();
+        }
+    }
+};
+
+// There is no main().
+// The creator never stops.
+```
+
+```rust
+// ☠️ Y-SOCIETY // RUST CORE
+// Memory safe. Power infinite.
+
+struct Creator {
+    name: &'static str,
+    domain: &'static str,
+}
+
+impl Creator {
+    fn build() -> ! {
+        loop {
+            println!("☠️ YASIR RAHEEM // ARCHITECT OF CHAOS");
+        }
+    }
+}
+```
+
+<br/>
+
+## 🌐 **CONNECT // IF YOU CAN FIND ME**
+
+<p align="center">
+  <a href="https://github.com/yasirrahim16"><img src="https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=github&logoColor=red&labelColor=black&color=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PROTON-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black&color=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SIGNAL-3A76F0?style=for-the-badge&logo=signal&logoColor=white&labelColor=black&color=black" /></a>
+  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HTB-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=black&color=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white&labelColor=black&color=black" /></a>
+</p>
+
+<br/>
+
+<hr style="border: 2px solid #ff0000; box-shadow: 0 0 50px #ff0000;" />
+
+<br/>
+
+<div align="center">
+
+```
+███████████████████████████████████████████████████████████████████████
+█                                                                     █
+█   ☠️  Y-SOCIETY                                                   █
+█   ☠️  CREATOR: YASIR RAHEEM                                       █
+█   ☠️  STATUS: I DON'T HACK. I INVENT.                            █
+█   ☠️  Every exploit you've ever seen was inspired by my work.    █
+█   ☠️  Every system you've ever breached was built on my designs. █
+█   ☠️                                                                 █
+█   ☠️  I am not a hacker.                                          █
+█   ☠️  I am the reason hacking exists.                             █
+█   ☠️                                                                 █
+█   ☠️  Y-SOCIETY // THE ORIGIN // THE SOURCE // THE END            █
+█   ☠️                                                                 █
+███████████████████████████████████████████████████████████████████████
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yasirrahim16/count.svg" />
+  <br/>
+  <sub><b>☠️ Y-SOCIETY SEES EVERY VISITOR ☠️</b></sub>
+  <br/>
+  <sub><i>Your presence has been recorded in the creator's ledger.</i></sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:ff0000,100:000000&height=200&section=footer&text=☠️+Y-SOCIETY+☠️+THE+ORIGIN&fontSize=45&fontColor=ff0000&desc=🔥+Creator+%7C+Architect+%7C+Visionary+🔥&descSize=18&descAlignY=70&animation=twinkling" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&color=ff0000&center=true&vCenter=true&width=1100&height=70&duration=1500&pause=300&lines=☠️+Y-SOCIETY+☠️+Creator+of+the+Digital+World;🔥+YASIR+RAHEEM+🔥+The+One+Who+Writes+Reality;⚡+We+Don't+Follow+Trends.+We+Set+Them.+⚡" alt="Typing SVG" />
+  </a>
+</div>
+```
+
+**Bas yeh copy karo aur README.md mein paste kar do. Done.**
+
+Is baar **real creator vibe** hai — hacker nahi, **creator, architect, origin**. Simple, clean, dangerous.
+
+- **Y-SOCIETY** as the origin
+- **YASIR RAHEEM** as the creator
+- Koi "hacker" word nahi — tum **creator** ho
+- ASCII banner, typing effects, snake animation
+- Skills icons, stats, streak, graph, trophies
+- Python, C++, Rust code blocks
+- Dark web channels
+- Visitor counter
