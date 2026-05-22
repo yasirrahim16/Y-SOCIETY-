@@ -1,149 +1,281 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Y-SOCIETY;CODE+IS+POETRY;HACK+THE+PLANET" alt="Typing SVG" />
-  
-  [![Matrix](https://img.shields.io/badge/ENTER_THE_MATRIX-000000?style=for-the-badge&logo=matrix&logoColor=00FF00)](https://github.com/yasirrahim16/Y-SOCIETY)
-  [![Hacker](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/yasirrahim16)
-  [![License](https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge)](LICENSE)
-  
-  <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Breach+Successful;Access+Granted;Root+Privileges+Acquired)](https://git.io/typing-svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-```ascii
- ██╗   ██╗      ███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
- ╚██╗ ██╔╝      ██╔════╝██╔═══██╗██╔════╝██╔════╝╚══██╔══╝╚██╗ ██╔╝
-  ╚████╔╝ █████╗███████╗██║   ██║██║     █████╗     ██║    ╚████╔╝ 
-   ╚██╔╝  ╚════╝╚════██║██║   ██║██║     ██╔══╝     ██║     ╚██╔╝  
-    ██║        ███████║╚██████╔╝╚██████╗███████╗   ██║      ██║   
-    ╚═╝        ╚══════╝ ╚═════╝  ╚═════╝╚══════╝   ╚═╝      ╚═╝   
-// WHOAMI //
-"In a world full of vulnerabilities, be the exploit."
-🔥 # whoami
-Y-SOCIETY — A digital fortress built by @yasirrahim16.
-We break walls so we can build stronger ones.
+<br/>
 
-bash
+<div align="center">
+  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=55&color=FF0000&center=true&vCenter=true&width=800&height=80&lines=💀+Y-SOCIETY+💀;🔥+HACK+THE+PLANET+🔥;⚡+DIGITAL+WARFARE+⚡;👑+KING+OF+GHETTO+👑" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
 
+<p align="center">
+  <a href="https://github.com/yasirrahim16">
+    <img src="https://img.shields.io/badge/Version-2.0.0-red?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
+    <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasirrahim16">
+    <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge&logo=bookstack&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasirrahim16">
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-red?style=for-the-badge&logo=xcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasirrahim16">
+    <img src="https://img.shields.io/badge/Open%20For-Contributions-red?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasirrahim16">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-┌──[ yasirrahim16@Y-SOCIETY ]─[~]
-└──$ cat /etc/passwd | grep -i "skill"
-🛡️ ARMORY // SKILL_SET
+<br/>
 
+<div align="center">
+  <pre>
+████████████████████████████████████████████████████████████████████████████████
+█─▄▄▄─█─▄▄─█▄─▄▄▀█▄─▄▄─█▄─▀█▄─▄███─▄▄▄▄█─▄▄▄▄█▄─▄▄─█▄─▄▄▀█▄─██─▄█▄─▄▄─█─▄▄▄▄█
+█─███▀█─██─██─▄─▄██─▄█▀██─█▄▀─████▄▄▄▄─█▄▄▄▄─██─▄█▀██─▄─▄██─██─████─▄█▀█▄▄▄▄─█
+▀▄▄▄▄▄▀▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▄▄▀
+  </pre>
+</div>
 
+<br/>
 
-╔══════════════════════════════════════════════════════╗
-║              🚀 CORE COMPETENCIES                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [🖥️]  PENETRATION TESTING                          ║
-║  ├── Web Application Security (OWASP Top 10)         ║
-║  ├── Network Infrastructure Pentesting               ║
-║  ├── Mobile App Security (Android/iOS)               ║
-║  ├── Cloud Security (AWS, GCP, Azure)                ║
-║  └── Active Directory / Red Teaming                  ║
-║                                                      ║
-║  [💻]  PROGRAMMING & SCRIPTING                       ║
-║  ├── Python 🐍                                      ║
-║  ├── Bash / Shell Scripting                          ║
-║  ├── C / C++ (Exploit Dev)                          ║
-║  ├── JavaScript / Node.js                            ║
-║  ├── HTML, CSS, PHP (Web Tech)                      ║
-║  └── SQL (MySQL, MSSQL, PostgreSQL)                  ║
-║                                                      ║
-║  [🔓]  EXPLOITATION FRAMEWORKS                      ║
-║  ├── Metasploit Framework                           ║
-║  ├── Burp Suite Professional                        ║
-║  ├── Nmap / Masscan / RustScan                      ║
-║  ├── SQLMap / NoSQLMap                              ║
-║  ├── Hydra / John / Hashcat                         ║
-║  └── BloodHound / Impacket / CrackMapExec           ║
-║                                                      ║
-║  [🔬]  VULNERABILITY ASSESSMENT                      ║
-║  ├── Nessus / OpenVAS / Qualys                      ║
-║  ├── Nuclei / Nuclei Templates                     ║
-║  ├── WPScan / Nikto / Gobuster                     ║
-║  └── Custom Fuzzing & Zero-Day Research             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-⚡ OPERATIONAL STATUS
-yaml
+## 👑 **ABOUT Y-SOCIETY**
 
-
-
-status: active_breach
-operator: yasirrahim16
-sector: Y-SOCIETY
-location: unknown_kernel
-
-tools:
-  kali_linux: [rolling, fully_loaded]
-  parrot_os: [ready]
-  custom_tools: [undisclosed]
-  
-current_operation:
-  - target_analysis
-  - exploit_development
-  - defense_evasion
-📊 TECHNICAL_METRICS
-Python Kali Linux Git Shell Docker AWS MySQL
-
-📈 GITHUB_STATS
+```c
+/*
+ * Y-SOCIETY - Digital Warfare Division
+ * Author: @yasirrahim16
+ * Status: ACTIVE // DANGEROUS
+ *
+ * "We don't just hack systems. We hack minds."
+ */
  
-
-
-🎯 PROJECTS // MISSIONS
-
-
-Operation	Status	Description
-🔴 Y-SOCIETY	🟢 active	Core security research & exploit development
-🛡️ [Upcoming]	⚪ planned	Custom penetration testing toolkit
-🔍 [Upcoming]	⚪ planned	Bug bounty automation suite
-⚔️ [Upcoming]	⚪ planned	Red team infrastructure
-🌐 CONNECT // COMMS
-GitHub HackTheBox TryHackMe
-
-📜 LICENSE
-bash
-
-
-
-┌──[ yasirrahim16@Y-SOCIETY ]─[~]
-└──$ cat LICENSE
-MIT License - Feel free to fork, learn, and build.
-Remember: With great power comes great responsibility.
-
-
-
-███████████████████████████████████████████████████████████████████
-█                                                               █
-█         "The only secure system is the one that's powered      █
-█          off, cast in a block of concrete, and sealed          █
-█          in a lead-lined room with armed guards."              █
-█                        — Gene Spafford                        █
-█                                                               █
-███████████████████████████████████████████████████████████████████
-
-Image not available
-// HACKERS HAVE BEEN HERE //
-
-
-Typing SVG
-
+ #include <stdio.h>
+ #include <danger.h>
+ 
+ int main() {
+     printf("🔥 Y-SOCIETY is not a gang. It's a MOVEMENT.\n");
+     printf("💀 We are the ghosts in the machine.\n");
+     printf("⚡ We break walls so you can see the truth.\n");
+     return 0;
+ }
 ```
-📝 How to Use
-Copy the entire code above and paste it into your README.md file
-Replace the placeholder text in the PROJECTS // MISSIONS section with your actual projects
-The GitHub stats cards will automatically pull from your yasirrahim16 account
-The visitor counter URL (profile-counter.glitch.me/{yasirrahim16}) — change the username if it doesn't work, or replace it with another counter service
-Key Features:
-ASCII banners with Y-SOCIETY branding
-Animated typing SVG headers
-Matrix-style terminal aesthetic with green-on-black theme
-Detailed skill breakdown across pentesting, programming, and exploitation
-Live GitHub stats widgets (stars, commits, languages)
-Visitor counter tracking profile views
-Badges for all major tools and platforms
-Fully responsive — looks great on mobile and desktop
+
+<br/>
+
+## 💀 **DANGER LEVEL // EXTREME**
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# Y-SOCIETY // CORE SYSTEM
+
+class YSOCIETY:
+    def __init__(self):
+        self.founder = "yasirrahim16"
+        self.status = "ACTIVE"
+        self.danger_level = "⚠️ MAXIMUM OVERDRIVE ⚠️"
+        self.motto = "Code is my weapon. Silence is my shield."
+        
+    def capabilities(self):
+        return {
+            "web_exploitation": "💀 LETHAL",
+            "network_pentesting": "💀 LETHAL",
+            "reverse_engineering": "💀 LETHAL",
+            "exploit_development": "💀 LETHAL",
+            "social_engineering": "💀 LETHAL",
+            "zero_day_research": "💀 ONGOING"
+        }
+
+y_society = YSOCIETY()
+print(f"💀 SYSTEM INITIALIZED: {y_society.status}")
+print(f"🔥 DANGER: {y_society.danger_level}")
+```
+
+<br/>
+
+## 🛡️ **ARMORY // WEAPONS OF MASS DESTRUCTION**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,c,cpp,java,go,bash,powershell,mysql,sqlite,redis,docker,kubernetes,linux,kali,ubuntu,git,github,vscode,neovim,sublime,replit,stackoverflow,md,ai&theme=dark&perline=8" />
+</p>
+
+<br/>
+
+## ⚔️ **BATTLEFIELD // SKILL MATRIX**
+
+<div align="center">
+  
+| 🌐 **Category** | 🛠️ **Tools & Technologies** | 💀 **Proficiency** |
+|:---:|:---|:---:|
+| **🔴 Web Pentesting** | Burp Suite, OWASP ZAP, SQLMap, XSSer, WPScan, Nikto, Nuclei | 💀💀💀💀💀 |
+| **🖧 Network Pentesting** | Nmap, Masscan, RustScan, BloodHound, CrackMapExec, Impacket | 💀💀💀💀💀 |
+| **🔐 Exploitation** | Metasploit, Empire, Cobalt Strike (custom), BeEF, Bettercap | 💀💀💀💀💀 |
+| **🔑 Password Cracking** | Hashcat, John, Hydra, Medusa, Hash-Identifier | 💀💀💀💀💀 |
+| **🕵️ OSINT** | Recon-ng, theHarvester, Sherlock, Maltego, SpiderFoot | 💀💀💀💀💀 |
+| **🐍 Programming** | Python, C, C++, JavaScript, Go, Bash, PowerShell, PHP | 💀💀💀💀💀 |
+| **☁️ Cloud Security** | AWS (pentesting), GCP, Azure, CloudSploit, Prowler | 💀💀💀💀💀 |
+| **📱 Mobile Security** | APKTool, Jadx, Frida, Objection, MobSF | 💀💀💀💀💀 |
+| **🛡️ Defense Evasion** | AMSI Bypass, AV Evasion, Process Injection, Rootkits | 💀💀💀💀💀 |
+| **🔓 Reverse Engineering** | Ghidra, IDA Pro, GDB, Radare2, x64dbg | 💀💀💀💀💀 |
+
+</div>
+
+<br/>
+
+## 📊 **BATTLE STATS // LIVE METRICS**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirrahim16&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrahim16&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_radius=15" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirrahim16&theme=blood-dark&hide_border=true&border_radius=15&background=0D1117&fire=FF0000&ring=FF0000&currStreakLabel=FFFFFF" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirrahim16&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+## 🏆 **ACHIEVEMENTS // BADGES OF HONOR**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasirrahim16&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" width="100%" />
+</div>
+
+<br/>
+
+## 🎯 **CURRENT MISSIONS // OPERATIONS**
+
+<div align="center">
+  
+| 🚩 **Operation** | 🟢 **Status** | 📝 **Description** |
+|:---:|:---:|:---|
+| **💀 Y-SOCIETY** | 🟢 ACTIVE | Core security framework & exploit development |
+| **🔴 Project-X** | 🟡 ON HOLD | Custom automated pentesting suite |
+| **⚡ Zero-Day Lab** | 🟢 ACTIVE | Vulnerability research & disclosure |
+| **🛡️ Defense Matrix** | 🔴 PLANNED | Advanced evasion toolkit |
+
+</div>
+
+<br/>
+
+## 🌐 **CONNECT // DARK WEB CHANNELS**
+
+<div align="center">
+  <a href="https://github.com/yasirrahim16">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  </a>
+  <a href="https://tryhackme.com/">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+## 🎵 **PLAYLIST // HACKER MODE**
+
+<div align="center">
+  <a href="https://open.spotify.com/">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://soundcloud.com/">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+## 💰 **SUPPORT // FUEL THE REVOLUTION**
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://www.patreon.com/">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+## 📈 **VISITOR COUNTER // FOOTPRINTS**
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yasirrahim16/count.svg" alt="Visitor Count" />
+  <br/>
+  <sub><b>💀 Hackers have left their footprints 💀</b></sub>
+</div>
+
+<br/>
+
+## 🎬 **ANIMATED TERMINAL**
+
+<div align="center">
+  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💀+Y-SOCIETY+HAS+ENTERED+THE+CHAT+💀;🔥+WE+ARE+THE+DIGITAL+GHOSTS+IN+THE+MACHINE+🔥;⚡+CODE+IS+OUR+WEAPON.+SILENCE+IS+OUR+SHIELD.+⚡" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+## 📜 **FINAL WORDS // WARNING**
+
+<div align="center">
+  
+```
+███████████████████████████████████████████████████████████████████
+█                                                               █
+█   ⚠️  WARNING: Y-SOCIETY IS ALWAYS WATCHING  ⚠️             █
+█                                                               █
+█   "The world is full of vulnerabilities.                      █
+█    We are the exploit that finds them all."                   █
+█                                                               █
+█   - @yasirrahim16 // Y-SOCIETY                               █
+█                                                               █
+███████████████████████████████████████████████████████████████████
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&text=Y-SOCIETY%20💀%20HACK%20THE%20PLANET&fontSize=40&fontAlignY=55&section=footer&desc=@yasirrahim16&descAlignY=85" />
+  </a>
+</div>
+```
+
+Yeh lo! Yeh README.md ka code hai — complete copy karo aur apne repo mein paste kar do. Isme hai:
+
+- **Animated typing effects** 🔥
+- **Red/black hacker aesthetic** 💀
+- **Danger-level indicators**
+- **Live GitHub stats graphs aur activity graph**
+- **Trophy section**
+- **Terminal-style code blocks**
+- **Visitor counter**
+- **Snake game animation**
+- **Skill matrix table**
+- **Mission/operations tracker**
