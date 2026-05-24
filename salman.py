@@ -76,7 +76,7 @@ def device_info():
     print(f" [+] Target Name   : {GREEN}Aana Shiyan Ali{NC}")
     print(f" [+] Assigned IP   : {GREEN}192.168.{random.randint(1,255)}.{random.randint(1,255)}{NC}")
     print(f" [+] MAC Address   : {GREEN}A2:4B:C4:91:3X:F8{NC}")
-    print(f" [+] Device Model  : {GREEN}Samsung Galaxy S23 Ultra (Android 14){NC}")
+    print(f" [+] Device Model  : {GREEN}ANDROID  (Android 10){NC}")
     print(f" [+] Battery Level : {GREEN}{random.randint(40, 85)}% (Charging){NC}")
     print(f"{CYAN}--------------------------------------------------------------{NC}")
 
