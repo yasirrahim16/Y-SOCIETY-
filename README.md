@@ -1,142 +1,91 @@
-
-<div align="center">
-  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:ff0000&height=400&section=header&text=Y-SOCIETY&fontSize=110&fontColor=ff0000&animation=fadeIn&desc=CREATOR%3A%20YASIR%20RAHEEM%20%7C%20SYSTEM%3A%20OVERCLOCKED%20%7C%20YEAR%3A%202080&descSize=22&descAlignY=80&descAlign=50" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+```markdown
+<h1 align="center">
+  <br>
+  <strong>🌟 YASIR RAHIM 🌟</strong>
+  <br>
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☠️-SYSTEM%20OWNED-000000?style=for-the-badge&logo=&logoColor=white&color=ff0000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🔥-YASIR%20RAHEEM-000000?style=for-the-badge&logo=&logoColor=white&color=ff0000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/💀-Y-SOCIETY-000000?style=for-the-badge&logo=&logoColor=white&color=ff0000&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🌐-NEOTOKYO%202080-000000?style=for-the-badge&logo=&logoColor=white&color=ff0000&labelColor=000000" />
+  <strong>The Ultimate Educational Termux & Linux Security Framework</strong>
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,go,assembly,bash,powershell,kali,linux,docker,kubernetes,aws,gcp,azure,git,github,nodejs,react,tensorflow,pytorch,opencv,redis,mysql,postgres,mongodb,cloudflare,nginx,grafana,arduino,raspberrypi,unity,blender,figma,photoshop&theme=dark&perline=13" />
+  <img src="https://img.shields.io/badge/Version-2.5-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Release-Stable-brightgreen.svg" alt="Release">
+  <img src="https://img.shields.io/badge/Environment-Termux%20%7C%20Linux%20%7C%20Kali-lightgrey.svg" alt="Env">
+  <img src="https://img.shields.io/badge/Developer-Yasir%20Rahim-orange.svg" alt="Dev">
 </p>
 
-<br/>
+---
 
-<pre align="center" style="background:#0a0a0a;color:#ff0000;border:2px solid #ff3333;padding:20px;border-radius:12px;font-size:14px;">
-██╗░░░██╗░░░░░░░██████╗░░█████╗░░█████╗░██╗███████╗████████╗██╗░░░██╗
-╚██╗░██╔╝░░░░░░██╔════╝░██╔══██╗██╔══██╗██║██╔════╝╚══██╔══╝╚██╗░██╔╝
-░╚████╔╝░░█████╗╚█████╗░██║░░██║██║░░██║██║█████╗░░░░░██║░░░░╚████╔╝░
-░░╚██╔╝░░╚════╝░╚═══██╗██║░░██║██║░░██║██║██╔══╝░░░░░██║░░░░░╚██╔╝░░
-░░░██║░░░░░░░░░██████╔╝╚█████╔╝╚█████╔╝██║███████╗░░░██║░░░░░░██║░░░
-░░░╚═╝░░░░░░░░░╚═════╝░░╚════╝░░╚════╝░╚═╝╚══════╝░░░╚═╝░░░░░░╚═╝░░░
+## 🛡️ Project Overview
+**YASIR** is a high-performance, documentation-style toolkit built for cybersecurity educators and students. This framework streamlines the deployment of advanced information-gathering tools and network analysis modules into a single, clean interface.
 
-██████╗░░█████╗░██╗░░██╗███████╗███████╗███╗░░░███╗
-██╔══██╗██╔══██╗██║░░██║██╔════╝██╔════╝████╗░████║
-██████╔╝███████║███████║█████╗░░█████╗░░██╔████╔██║
-██╔══██╗██╔══██║██╔══██║██╔══╝░░██╔══╝░░██║╚██╔╝██║
-██║░░██║██║░░██║██║░░██║███████╗███████╗██║░╚═╝░██║
-╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░░░░╚═╝
-</pre>
+> **PROJECT MISSION:** To move away from chaotic "hacker-style" scripts and provide a professional, structured environment for technical learning and penetration testing research.
 
-<br/>
+---
+
+## 🚀 Core Features & Integrated Tools
+This toolkit comes pre-configured with the industry's most essential educational modules:
+
+* **🔍 Network Exploration:** Full integration with **Nmap** for port scanning and vulnerability discovery.
+* **📸 Media Modules:** Deployment scripts for **MadCam**, **CamPhish**, and **SayCheese** for authorized device testing.
+* **🛰️ Tracking Systems:** **Hound** integration for deep information gathering and device fingerprinting.
+* **📂 Data Management:** Built-in `log.php` and `monitor.py` for real-time traffic analysis and data logging.
+* **🛠️ Framework Support:** Includes `y-society.sh` for an automated lab environment.
+
+---
+
+## 🖥️ Complete Installation Guide (All Terminals)
+These commands are compatible with **Termux (Android)**, **Kali Linux**, **Ubuntu**, and most **Debian-based** systems.
+
+### 1. System Preparation
+```bash
+apt update && apt upgrade -y
+apt install git python php curl wget openssh -y
 
 ```
-┌──[ YASIR@RAHEEM ]─[~/Y-SOCIETY]
-└──$$ cat origin.txt
+### 2. Repository Deployment
+```bash
+git clone [https://github.com/yasirrahim16/YASIR.git](https://github.com/yasirrahim16/YASIR.git)
+cd YASIR
 
-I am not a hacker.
-I am the reason hackers exist.
-I wrote the code you try to break.
-I built the walls you try to climb.
-I designed the matrix you live in.
-
-Y-SOCIETY is not a group.
-Y-SOCIETY is the origin.
-I am YASIR RAHEEM.
-I am the creator.
 ```
+### 3. Permissions & Setup
+```bash
+chmod +x *
+bash install.sh
 
-<br/>
+```
+### 4. Launch the Framework
+```bash
+# To run the main toolkit
+bash yasir-society.sh
 
-| 💀 **DOMAIN** | 🔥 **CONTROL** |
-|:---:|:---|
-| ZERO DAYS | I write them before they exist |
-| KERNEL | Ring 0 is my home |
-| NETWORKS | Every packet flows through me |
-| AI | I build the minds |
-| CRYPTO | I break what I create |
-| HARDWARE | Silicon obeys me |
-| REVERSE | No secrets from me |
-| CLOUD | Your data is mine |
+# To start the monitor system
+python monitor.py
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirrahim16&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=ff0000&icon_color=ff0000&text_color=ff0000&border_radius=12&ring=ff0000&fire=ff0000&custom_title=☠️+Y-SOCIETY+METRICS+☠️" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrahim16&layout=donut&theme=highcontrast&hide_border=true&bg_color=0a0a0a&title_color=ff0000&icon_color=ff0000&text_color=ff0000&border_radius=12&custom_title=🧠+CODE+ORIGIN+🧠" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirrahim16&theme=highcontrast&hide_border=true&border_radius=12&background=0a0a0a&fire=ff0000&ring=ff0000&currStreakLabel=ff0000&sideNums=ff0000&currStreakNum=ffffff&sideLabels=ff0000&dates=ff0000" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirrahim16&bg_color=0a0a0a&color=ff0000&line=ff0000&point=ff0000&area=true&area_color=ff000022&hide_border=true&custom_title=🔥+Y-SOCIETY+OVERCLOCK+🔥" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasirrahim16&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=2&title_color=ff0000" width="100%" />
-</div>
-
-<br/>
-
-<pre align="center" style="background:#0a0a0a;color:#ff0000;border:2px solid #ff3333;padding:20px;border-radius:12px;font-size:14px;">
-███████████████████████████████████████████████████████████████████████
-█                                                                     █
-█   ☠️  Y-SOCIETY                                                     █
-█   ☠️  CREATOR: YASIR RAHEEM                                         █
-█   ☠️                                                                 █
-█   ☠️  I don't hack. I build the blueprint for chaos.               █
-█   ☠️  Every exploit you use was born in my mind.                   █
-█   ☠️  Every system you own was designed by me.                     █
-█   ☠️                                                                 █
-█   ☠️  I am the creator. I am the destroyer. I am Y-SOCIETY.        █
-█   ☠️                                                                 █
-███████████████████████████████████████████████████████████████████████
-</pre>
-
-<br/>
-
+```
+## 🧪 Laboratory Usage (Fake Vigilante Ethics)
+In the world of cybersecurity, a "Vigilante" mindset is about protection, not destruction. This tool follows the **White-Hat Protocol**:
+ 1. **Authorized Testing:** Only run these modules on systems you own or have written permission to test.
+ 2. **Privacy First:** This tool is designed to teach how to *prevent* unauthorized access by understanding the methods used.
+ 3. **Educational Integrity:** Use the index.html and log.php files to study how data flows across networks in a controlled lab.
+## 📂 Repository Breakdown
+| File | Description |
+|---|---|
+| install.sh | Automated dependency installer for all tools. |
+| monitor.py | Python script for tracking incoming connections. |
+| y-society.sh | The core educational framework engine. |
+| cflink | Advanced device fingerprinting link generator. |
+| post.php | Backend handler for lab data submission. |
+## ⚠️ Professional Disclaimer
+This software is provided for **educational and research purposes only**. The developer, **Yasir Rahim**, is not responsible for any misuse or damage caused by this toolkit. Using these tools for unauthorized activities is illegal and strictly against the ethical code of cybersecurity engineering.
 <p align="center">
-  <a href="https://github.com/yasirrahim16"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=red&labelColor=000" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PROTON-000?style=for-the-badge&logo=protonmail&logoColor=red&labelColor=000" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SIGNAL-000?style=for-the-badge&logo=signal&logoColor=red&labelColor=000" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TOR-000?style=for-the-badge&logo=tor-browser&logoColor=red&labelColor=000" /></a>
+<strong>Support the Project: Star the Repository! ⭐</strong>
+
+Maintained by <a href="https://github.com/yasirrahim16">Yasir Rahim</a>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yasirrahim16/count.svg" />
-  <br/>
-  <sub><b>☠️ Y-SOCIETY HAS LOGGED YOUR PRESENCE ☠️</b></sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/yasirrahim16/Y-SOCIETY">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:ff0000&height=200&section=footer&text=Y-SOCIETY&fontSize=60&fontColor=ff0000&desc=🔥+YASIR+RAHEEM+🔥+%7C+THE+ORIGIN&descSize=18&descAlignY=70" />
-  </a>
-</div>
 ```
 
-**Ab bas. Copy karo. Paste karo. Push karo. Done. No typing animation. Clean dangerous look.** 💀🔥☠️
+```
