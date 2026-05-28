@@ -1,0 +1,15 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+termux-wake-lock
+
+export DISPLAY=:0
+export PULSE_SERVER=127.0.0.1
+export XDG_RUNTIME_DIR=/data/data/com.termux/files/usr/tmp
+
+pulseaudio --start --exit-idle-time=-1
+
+am start --user 0 -n com.termux.x11/com.termux.x11.Main >/dev/null 2>&1
+
+sleep 2
+xfce4-session >/dev/null 2>&1 &
+
